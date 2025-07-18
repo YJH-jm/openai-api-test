@@ -18,5 +18,7 @@ uv pip install -r requirements
 ```
 - `openai` : 1.95.1
 - `streamlit` : 1.46.1
+- `streamlit-chat` : 0.1.1
+
 
 
